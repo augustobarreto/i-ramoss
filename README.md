@@ -1,4 +1,4 @@
-## what's up?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## what's up?! <img src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" width="25px">
 
 
 Hi guys, everything all right? I'm [Ian](https://www.linkedin.com/in/ian-ramos/).
